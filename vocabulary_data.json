@@ -1861,7 +1861,7 @@
       },
       {
         "english": "taint",
-        "japanese": "汚染する"
+        "japanese": "傷つける、汚染する"
       },
       {
         "english": "octopus",
@@ -1881,7 +1881,7 @@
       },
       {
         "english": "stimulant",
-        "japanese": "刺激剤"
+        "japanese": "刺激物"
       },
       {
         "english": "mercantile",
@@ -1897,7 +1897,7 @@
       },
       {
         "english": "built-in",
-        "japanese": "ビルトインの"
+        "japanese": "作り付けの"
       },
       {
         "english": "strand",
@@ -1909,7 +1909,7 @@
       },
       {
         "english": "insolvent",
-        "japanese": "支払い不能の"
+        "japanese": "破産した、支払い不能の"
       },
       {
         "english": "decree",
@@ -1921,7 +1921,7 @@
       },
       {
         "english": "precipitate",
-        "japanese": "引き起こす"
+        "japanese": "引き起こす、雨になる"
       },
       {
         "english": "intricate",
@@ -1937,7 +1937,7 @@
       },
       {
         "english": "conviction",
-        "japanese": "信念"
+        "japanese": "確信、有罪判決"
       },
       {
         "english": "transplant",
@@ -1949,11 +1949,11 @@
       },
       {
         "english": "astronomical",
-        "japanese": "天文学的な"
+        "japanese": "膨大な、天文学的な"
       },
       {
         "english": "attrition",
-        "japanese": "消耗"
+        "japanese": "自然現、磨滅、消耗"
       },
       {
         "english": "platypus",
@@ -1973,7 +1973,7 @@
       },
       {
         "english": "sanitation",
-        "japanese": "衛生"
+        "japanese": "公衆衛生"
       },
       {
         "english": "fiscal",
@@ -1989,7 +1989,7 @@
       },
       {
         "english": "overtime",
-        "japanese": "時間外に"
+        "japanese": "時間外労働"
       },
       {
         "english": "pasture",
@@ -2017,7 +2017,7 @@
       },
       {
         "english": "magnitude",
-        "japanese": "大きさ"
+        "japanese": "大きさ、重要性"
       },
       {
         "english": "devoid",
@@ -2037,7 +2037,7 @@
       },
       {
         "english": "residue",
-        "japanese": "残り"
+        "japanese": "残り、残留物"
       },
       {
         "english": "retard",
@@ -2061,11 +2061,11 @@
       },
       {
         "english": "fathom",
-        "japanese": "測る"
+        "japanese": "測る、見抜く"
       },
       {
         "english": "surge",
-        "japanese": "急増する"
+        "japanese": "波のように押し寄せる"
       },
       {
         "english": "conductive",
@@ -2077,7 +2077,7 @@
       },
       {
         "english": "sprinkle",
-        "japanese": "振りかける"
+        "japanese": "水を撒く"
       },
       {
         "english": "domain",
@@ -2085,19 +2085,19 @@
       },
       {
         "english": "unfold",
-        "japanese": "広げる"
+        "japanese": "開く、広げる"
       },
       {
         "english": "solemn",
-        "japanese": "厳粛な"
+        "japanese": "荘厳な"
       },
       {
         "english": "transitory",
-        "japanese": "一時的な"
+        "japanese": "儚い、一時的な"
       },
       {
         "english": "liaison",
-        "japanese": "連絡係"
+        "japanese": "連絡"
       },
       {
         "english": "stern",
@@ -2121,11 +2121,11 @@
       },
       {
         "english": "stroll",
-        "japanese": "散歩する"
+        "japanese": "ぶらつく、放浪する"
       },
       {
         "english": "refute",
-        "japanese": "反論する"
+        "japanese": "論駁する"
       },
       {
         "english": "intestine",
@@ -2133,15 +2133,15 @@
       },
       {
         "english": "terminology",
-        "japanese": "用語"
+        "japanese": "専門用語、術語学"
       },
       {
         "english": "singular",
-        "japanese": "単数の"
+        "japanese": "稀に見る、単数の"
       },
       {
         "english": "expire",
-        "japanese": "期限が切れる"
+        "japanese": "失効する、満期になる"
       },
       {
         "english": "monotonous",
@@ -2149,7 +2149,7 @@
       },
       {
         "english": "ingenious",
-        "japanese": "独創的な"
+        "japanese": "才能ある、独創的な"
       },
       {
         "english": "replenish",
@@ -2157,11 +2157,11 @@
       },
       {
         "english": "matrix",
-        "japanese": "母体"
+        "japanese": "(数学の)行列"
       },
       {
         "english": "coach",
-        "japanese": "コーチ"
+        "japanese": "大型馬車"
       },
       {
         "english": "kidney",
@@ -2169,7 +2169,7 @@
       },
       {
         "english": "succinct",
-        "japanese": "簡潔な"
+        "japanese": "簡潔な、ズバリの"
       },
       {
         "english": "poach",
@@ -2185,7 +2185,7 @@
       },
       {
         "english": "hectic",
-        "japanese": "忙しい"
+        "japanese": "てんやわんやの"
       },
       {
         "english": "suppress",
@@ -2213,7 +2213,7 @@
       },
       {
         "english": "savory",
-        "japanese": "風味の良い"
+        "japanese": "食欲をそそる、風味の良い"
       },
       {
         "english": "continental shelf",
@@ -2229,11 +2229,11 @@
       },
       {
         "english": "erode",
-        "japanese": "侵食する"
+        "japanese": "蝕む、侵食する"
       },
       {
         "english": "validate",
-        "japanese": "検証する"
+        "japanese": "妥当性を立証する"
       },
       {
         "english": "tactics",
@@ -2245,7 +2245,7 @@
       },
       {
         "english": "profusely",
-        "japanese": "深く"
+        "japanese": "深く、豊富に"
       },
       {
         "english": "cursory",
@@ -2269,7 +2269,7 @@
       },
       {
         "english": "whirl",
-        "japanese": "回る"
+        "japanese": "ぐるぐる回る"
       },
       {
         "english": "proprietor",
@@ -2277,7 +2277,7 @@
       },
       {
         "english": "discerning",
-        "japanese": "洞察力のある"
+        "japanese": "明敏な、洞察力のある"
       }
     ]
   },
